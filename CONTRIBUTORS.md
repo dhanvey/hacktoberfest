@@ -611,6 +611,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [djbaker](https://github.com/djbaker)
 
+#### Name: [Danielle Hanvey](https://github.com/dhanvey)
+- Place: Jersey City, NJ
+- Bio: Aspiring Web Developer
+- GitHub: [dhanvey](https://github.com/dhanvey)
+
 #### Name: [Daniel Hernandez](https://github.com/DHDaniel)
 - Place: Caracas, Venezuela
 - Bio: IB Diploma high school student.
