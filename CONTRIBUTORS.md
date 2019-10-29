@@ -2403,6 +2403,11 @@ Noida
 - Bio: dev
 - GitHub: [coastalchief](https://github.com/coastalchief)
 
+#### Name: [Danielle]
+ - Place: Jersey City, NJ
+ - Bio: Aspiring to learn how to code.
+ - GitHub: [dhanvey](https://github.com/dhanvey)
+ 
 #### Name: [filedesless](https://hightechlowlife.info)
 - Place: Québec, Canada
 - Bio: CompSci from ULaval reporting in
